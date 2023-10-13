@@ -21,11 +21,9 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
-
-
-
-
+Exercise 1: 
+The Chinese bar is thicker rather than longer.
+There is an error in the Chinese data, it should say 'Million' instead of 'Billion' as it is implying 1,026,000,000,000 people speak Chinese which is more than the population of Earth.
 
 ## Image 2
 
@@ -33,10 +31,10 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
-
-
-
+Exercise 2:
+The Black and White theme is hard to differentiate between.
+We don't know what part of the image shows density or what shows total area (i.e. unlabeled).
+No legend or numbers.
 
 ## Image 3
 
@@ -44,10 +42,12 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
-
-
-
+Exercise 3:
+No legend.
+No Title, don't know what the graph is about.
+Does size of circle have a meaning?
+The overlapping colours makes it hard to differentiate between them. 
+No numbers on axes
 
 ## Image 4
 
@@ -55,11 +55,13 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
-
-
-
-
+Exercise 4:
+Some of the colours are for countries and others for area.
+Difficult to read the words on top of the graph, a legend would be advised instead. 
+Very long axes titles.
+Units should be used in axes labels. 
+Relatively out of date data.
+Gobal income of 2011 but data collected in 2015.
 
 # Exercises
 
