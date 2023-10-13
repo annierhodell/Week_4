@@ -90,11 +90,11 @@ How many observations are there in the data set?
 
 staff_long <- staff %>%
   pivot_longer(
-    cols = !faculty_type , 
+    cols = !faculty_type , #columns become everything but faculty type
    names_to = "years",
     values_to = "percent"
    )
-
+staff_long
 ```
 
 
