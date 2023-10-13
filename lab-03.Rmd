@@ -90,11 +90,11 @@ How many observations are there in the data set?
 
 staff_long <- staff %>%
   pivot_longer(
-    cols = !faculty_type , #columns become everything but faculty type
+    cols = !faculty_type , 
    names_to = "year",
     values_to = "percent"
    )
-staff_long
+
 ```
 
 
@@ -106,7 +106,6 @@ ggplot(data = staff_long,
                      y = percent, 
                      colour = faculty_type)) +
   geom_point()
-
 
 ```
 
