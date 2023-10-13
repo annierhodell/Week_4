@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Annie o'Dell, Alice Bullard, Anna Scollay, and Alice Miller - THE A-TEAM"
+author: "Annie o'Dell, Alice Bullard, Anna Scollay, and Alice Miller - A-TEAM"
 date: "`r Sys.Date()`"
 output: html_document
 ---
