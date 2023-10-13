@@ -1,10 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-<<<<<<< HEAD
-author: "User1, Alice Bullard, User3 and Alice Miller - Team Name"
-=======
-author: "User1, User2, Anna Scollay and User4 - A-TEAM"
->>>>>>> cea00198df8405a4a41ec0b13ea5e57e138af447
+author: "Annie o'Dell, Alice Bullard, Anna Scollay, and Alice Miller - THE A-TEAM"
 date: "`r Sys.Date()`"
 output: html_document
 ---
